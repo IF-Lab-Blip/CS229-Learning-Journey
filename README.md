@@ -1,2 +1,4 @@
-# CS229-Learning-Journey
-My daily notes, code and learnings from Stanford CS229 by Andrew Ng 
+# CS229 - Machine Learning Journey
+Stanford CS229 (Andrew Ng) - Learning in Public
+Hi, I'm learning ML from scratch.
+...
